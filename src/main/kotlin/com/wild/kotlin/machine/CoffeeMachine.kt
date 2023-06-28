@@ -1,4 +1,4 @@
-package org.wild.kotlin.machine
+package com.wild.kotlin.machine
 
 class CoffeeMachine(
     private var water: Int,
